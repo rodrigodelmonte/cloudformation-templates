@@ -1,6 +1,6 @@
 # Cloudformation turn on the lights.
 
-This repo contains cloudformation templates for a simple POC wher I create an elasticbeanstalk sample, but before cloudformation triggers the lambda function that simulates the lights uf a bedroom lighting up. I do not use any IOT device, the bedroom is just a S3 bucket hosting a static site. The POC aims to test how cloudformation can be extensible to the AWS services and how to integrates with third party services.
+This repo contains cloudformation templates for a simple POC wher I create an elasticbeanstalk sample, but before cloudformation triggers the lambda function that simulates the lights of a bedroom lighting up. I do not use any IOT device, the bedroom is just a S3 bucket hosting a static site. The POC aims to test how cloudformation can be extensible to the AWS services and how to integrates with third party services.
 
 ## Steps
 
